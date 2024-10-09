@@ -1,0 +1,4 @@
+# ninja log v6
+2	108	7501640731159202	CMakeFiles/morpion.dir/main.c.obj	908c59cd7775e274
+8	115	7501640731239262	CMakeFiles/morpion.dir/morpion.c.obj	5d78f574ccb3cf26
+115	295	7501640732304541	morpion.exe	cb0871df0f3336c7

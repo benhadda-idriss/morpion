@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/idris/Documents/langage_c/projet/morpion/build",
-		"source" : "C:/Users/idris/Documents/langage_c/projet/morpion"
+		"build" : "C:/Users/idris/Documents/projet_github/projet-perso/morpion/build",
+		"source" : "C:/Users/idris/Documents/projet_github/projet-perso/morpion"
 	},
 	"version" : 
 	{

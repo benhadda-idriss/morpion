@@ -70,7 +70,7 @@ void jouerPosition(int *ligne, int *colonne) {
         fgets(input, sizeof(input), stdin);  // Lire toute la ligne entrée par l'utilisateur
 
         // Utiliser sscanf pour analyser la chaîne lue
-        result = sscanf(input, "%d-%d", ligne, colonne);
+        result = sscanf(input, "%d %d", ligne, colonne);
         
 
 

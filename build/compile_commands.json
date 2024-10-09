@@ -1,14 +1,14 @@
 [
 {
-  "directory": "C:/Users/idris/Documents/langage_c/projet/morpion/build",
-  "command": "C:\\PROGRA~1\\mingw64\\bin\\gcc.exe   -g -std=gnu99 -o CMakeFiles\\morpion.dir\\main.c.obj -c C:\\Users\\idris\\Documents\\langage_c\\projet\\morpion\\main.c",
-  "file": "C:/Users/idris/Documents/langage_c/projet/morpion/main.c",
-  "output": "CMakeFiles/morpion.dir/main.c.obj"
+  "directory": "C:/Users/idris/Documents/projet_github/projet-perso/morpion/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\gcc.exe -g -std=gnu99 -o CMakeFiles\\morpion.dir\\main.c.obj -c C:\\Users\\idris\\Documents\\projet_github\\projet-perso\\morpion\\main.c",
+  "file": "C:\\Users\\idris\\Documents\\projet_github\\projet-perso\\morpion\\main.c",
+  "output": "CMakeFiles\\morpion.dir\\main.c.obj"
 },
 {
-  "directory": "C:/Users/idris/Documents/langage_c/projet/morpion/build",
-  "command": "C:\\PROGRA~1\\mingw64\\bin\\gcc.exe   -g -std=gnu99 -o CMakeFiles\\morpion.dir\\morpion.c.obj -c C:\\Users\\idris\\Documents\\langage_c\\projet\\morpion\\morpion.c",
-  "file": "C:/Users/idris/Documents/langage_c/projet/morpion/morpion.c",
-  "output": "CMakeFiles/morpion.dir/morpion.c.obj"
+  "directory": "C:/Users/idris/Documents/projet_github/projet-perso/morpion/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\gcc.exe -g -std=gnu99 -o CMakeFiles\\morpion.dir\\morpion.c.obj -c C:\\Users\\idris\\Documents\\projet_github\\projet-perso\\morpion\\morpion.c",
+  "file": "C:\\Users\\idris\\Documents\\projet_github\\projet-perso\\morpion\\morpion.c",
+  "output": "CMakeFiles\\morpion.dir\\morpion.c.obj"
 }
 ]

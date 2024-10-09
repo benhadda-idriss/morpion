@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/idris/Documents/langage_c/projet/morpion/build"
+			"value" : "c:/Users/idris/Documents/projet_github/projet-perso/morpion/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -91,23 +91,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "0"
-		},
-		{
-			"name" : "CMAKE_COLOR_MAKEFILE",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "Enable/Disable color output during build."
-				}
-			],
-			"type" : "BOOL",
-			"value" : "ON"
+			"value" : "4"
 		},
 		{
 			"name" : "CMAKE_COMMAND",
@@ -575,7 +559,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/idris/Documents/langage_c/projet/morpion/build/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/idris/Documents/projet_github/projet-perso/morpion/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -587,7 +571,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "MinGW Makefiles"
+			"value" : "Ninja"
 		},
 		{
 			"name" : "CMAKE_GENERATOR_INSTANCE",
@@ -647,7 +631,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/idris/Documents/langage_c/projet/morpion"
+			"value" : "C:/Users/idris/Documents/projet_github/projet-perso/morpion"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -691,7 +675,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/PROGRA~1/mingw64/bin/mingw32-make.exe"
+			"value" : "C:/PROGRA~1/mingw64/bin/ninja.exe"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -1295,7 +1279,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/idris/Documents/langage_c/projet/morpion/build"
+			"value" : "C:/Users/idris/Documents/projet_github/projet-perso/morpion/build"
 		},
 		{
 			"name" : "morpion_IS_TOP_LEVEL",
@@ -1319,7 +1303,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/idris/Documents/langage_c/projet/morpion"
+			"value" : "C:/Users/idris/Documents/projet_github/projet-perso/morpion"
 		}
 	],
 	"kind" : "cache",
