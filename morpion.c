@@ -65,7 +65,7 @@ void jouerPosition(int *ligne, int *colonne) {
     char input[100];
     int result;
     do {
-        printf("Donnez la position de la ligne puis de la colonne du type (1-3) : ");
+        printf("Donnez la position de la ligne puis de la colonne du type (1 3) : ");
 
         fgets(input, sizeof(input), stdin);  // Lire toute la ligne entrée par l'utilisateur
 
